@@ -11,4 +11,4 @@ This repository contains the documentation for our product.
 
 ## Contributing
 
-PRs welcome. Run linters before pushing. ba
+PRs welcome. Run linters before pushing. b
